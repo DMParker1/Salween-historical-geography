@@ -33,9 +33,9 @@ This register preserves historical spellings, modern identifications, functional
 | P-027 | Me Nge / Mge | Salween forest/stream district | **Unresolved modern identification** | Appears in BBTC forestry grouping. | R-010–R-012; M-020–M-021; S-005, S-014; H-F |
 | P-028 | Thoungyin / Thoungyeen | Moei River / associated forest district | **Established broad identification** | | R-010, R-012; M-020–M-021; S-005, S-014; H-F |
 | P-029 | Ban Mai Pah | Historical settlement near Me Lan hills | **Unresolved** | Appears in Macaulay itinerary. | R-010; M-021; S-005 |
-| P-030 | Maybeoung | Historical place-name | **Unresolved** | Do not identify with Dagwin or Tha Ta Fang without evidence. | — |
-| P-031 | Tseekmeeda | Possibly Tay Muh Der | **Tentative** | Historical coordinate ~18°25′53″N, 97°19′00″E. | — |
-| P-032 | Khadienglee | Possibly Day Wah or nearby place | **Tentative** | Historical coordinate ~17°40′19″N, 97°32′15″E. | — |
+| P-030 | Maybeoung / Maybeong Ck | Creek or stream locality near Dagwin on the Salween | **Attested; modern identification unresolved** | Appears on Montgomerie 1862 map immediately south of Dahgwin Ziek. `Ck` likely abbreviates creek. Exact modern stream identification remains unresolved. | M-001; P-008–P-009 |
+| P-031 | Tseekmeeda | Possibly Tay Muh Der | **Tentative** | Appears on Montgomerie 1862 map at approx. 18°25′53″N, 97°19′00″E. Modern identification remains tentative. | M-001 |
+| P-032 | Khadienglee | Possibly Day Wah or nearby place | **Tentative** | Appears on Montgomerie 1862 map at approx. 17°40′19″N, 97°32′15″E, apparently on or very near the Yunzalin River. Modern identification remains tentative. | M-001; P-021 |
 | P-033 | Gantarawadi / Gantarawadee / Kantarawadi / Kantarawady | Eastern Karenni polity | **Established polity; territorial limits contested** | Capital Sawlon west of Salween; substantial east-bank interests or control are documented. | P-034–P-040; R-020–R-024; M-018–M-019; S-006–S-012, S-025–S-026; H-E, H-F |
 | P-034 | Sawlon | Capital of Gantarawadi | **Established** | Captured by British forces 8 January 1889. | P-033, P-035–P-036; R-021–R-023; S-025; H-E |
 | P-035 | Sawlapaw / Saw La Paw | Ruler of Gantarawadi | **Established** | Deposed following British intervention. | P-033–P-039; R-020–R-023; M-018; S-006–S-009, S-025; H-E |
