@@ -2,7 +2,7 @@
 
 ![Boat on the Salween River](media/SalweenBoat.png)
 
-*Boat transport on the Salween River. Field photograph July 13, 2014.*
+*Waiting to move upriver on the Salween near Mae Sam Laep, Thailand July 13, 2014.*
 
 A working research atlas for the historical geography of the Salween frontier, with particular attention to the corridor linking:
 
