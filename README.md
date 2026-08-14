@@ -68,7 +68,3 @@ Later evidence includes:
 ## Repository philosophy
 
 This repository is intended to preserve both evidence and uncertainty.
-
-The registers should remain human-readable. Structured data formats such as CSV, GeoJSON, or GIS layers can be added when there is a clear analytical use for them.
-
-The default branch is `main`.
