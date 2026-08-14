@@ -54,7 +54,7 @@ This register preserves historical spellings, modern identifications, functional
 | P-048 | Momien / Momein | Tengyue / Tengchong | **Established** | Not Moulmein. |
 | P-049 | Dali Guo | Dali polity / Du Wenxiu regime in later ancestry traditions | **Contextual** | Relevant to Muslim Yunnanese migration and oral histories. |
 | P-050 | “Lao” in nineteenth-century northern-Siam sources | Usually Lanna / Tai Yuan / Khon Mueang context | **Strong contextual reading** | Do not automatically interpret as modern Lao nationality. |
-| P-051 | Metharut / Metharut chaung | Historical locality and stream near Hpapun | **Attested; modern identification unresolved** | Gazetteer account of Papun pottery identifies Metharut as one of two pottery-producing settlements near Papun and states that the clay was obtained from Metharut chaung, described as close to Papun. Pottery production there was reported to be entirely in the hands of Shans. |
+| P-051 | Metharut / Métharut / Metharut chaung | Historical village and stream immediately adjacent to Hpapun | **Attested; modern identification unresolved** | Taw Sein-Ko's 1895 monograph, reproducing a Salween District report *in extenso*, places Métharut chaung about ½ mile from Papun and identifies Métharut as one of two Shan pottery-producing villages. It is not visibly identifiable on the Colquhoun-era Pahpoon map, possibly because of its very close proximity to the town and the map scale. |
 | P-052 | Naungla | Historical locality near Hpapun | **Attested; modern identification unresolved** | Gazetteer account identifies Naungla, together with Metharut, as a center of pottery production near Papun. Pottery production was reported to be entirely in the hands of Shans. |
 
 ## Standing identification cautions
