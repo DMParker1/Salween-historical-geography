@@ -2,7 +2,7 @@
 
 This register preserves historical spellings, modern identifications, functional distinctions, and unresolved place-name problems.
 
-| ID | Historical name(s) | Identification | Status | Notes |
+| ID  | Historical name(s) | Identification | Status | Notes |
 |----|---|---|---|---|
 | P-001 | Papun / Pahpoon / Phapun / Hpapun / Pha-pun | Hpapun town, Myanmar | **Established** | Historical headquarters of the Salween District / Salween Hill Tracts on the Yunzalin. Approx. 18°03′N, 97°28′E. |
 | P-002 | Mutraw / Mu Traw | Broader Karen territorial/regional designation surrounding Hpapun | **Strong distinction** | Closely associated with Hpapun but not simply another name for the town. |
