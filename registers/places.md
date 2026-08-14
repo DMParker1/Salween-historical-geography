@@ -61,7 +61,7 @@ This register preserves historical spellings, modern identifications, functional
 
 - Hpapun ≠ Papun in Bhamo District.
 - Hpapun ≠ Mutraw as a one-to-one synonym.
-- Dagwin ≠ Tha Ta Fang.
+- Dagwin ≠ Tha Ta Fang, but they are related (seem to be on opposite sides of Salween)
 - Ta Te ≠ Tha Ta Fang.
 - Momien ≠ Moulmein.
 - Hminelongyee is probably the historical name for the Mae Sariang/Müang Yuam center or its surrounding regional geography, but its exact historical scale and usage remain unresolved.
