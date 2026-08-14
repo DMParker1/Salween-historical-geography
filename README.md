@@ -44,7 +44,7 @@ A statement quoted by a modern historian should not silently become that histori
 
 ## Important standing cautions
 
-- **Hpapun/Papun** is not the unrelated Papun in Bhamo District.
+- **Hpapun/Papun** is not the unrelated Papun in Bhamo District (mentioned in Gazetteer Part 2 VII page 753: "PAPUN - A Kachin village in Tract No. 12, Bhamo district, situated in 24° 31′ North latitude and 97° 34′ East longitude. In 1892 it contained twenty houses: its population was unknown. The headman of the village has no others subordinate to him. The inhabitants are of the Lepai tribe and Szi sub-tribe, and own no cattle.)
 - **Hpapun** and **Mutraw** are related but not interchangeable geographical units.
 - **Dagwin** and **Tha Ta Fang** are opposite-bank places within the same crossing complex, not the same settlement.
 - **Ta Te** is not Tha Ta Fang.
