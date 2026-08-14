@@ -1,5 +1,9 @@
 # Salween Historical Geography
 
+![Boat on the Salween River](media/SalweenBoat.png)
+
+*Boat transport on the Salween River. Field photograph.*
+
 A working research atlas for the historical geography of the Salween frontier, with particular attention to the corridor linking:
 
 **Moulmein → Yunzalin → Hpapun/Papun → Dagwin/Daguinseik → Salween → Tha Ta Fang → Hminelongyee/Müang Yuam–Mae Sariang → Chiang Mai/Zimmay**
