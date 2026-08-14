@@ -9,7 +9,7 @@ This register preserves historical spellings, modern identifications, functional
 | P-003 | Papun, Bhamo District | Separate northern locality in the Bhamo/Kachin region | **Rejected conflation; modern identification unresolved** | Distinct from P-001 Hpapun in the former Salween District. Attested in the *Gazetteer of Upper Burma and the Shan States*, but no secure modern identification has yet been established. Preserve as a separate unresolved toponym rather than assuming an OCR error or connection with Hpapun. |
 | P-004 | Pahpoh | Probably Hpapun | **Strong identification** | Historical coordinate ~18°07′43″N, 97°24′25″E lies somewhat NW of modern Hpapun. Toponymic evidence is stronger than the historical coordinate. |
 | P-005 | Müang Yuam / Muang Yuam / Muang Yuom | Historical polity/town centered on modern Mae Sariang | **Strong** | Major eastern node in the Papun–Salween–Chiang Mai route system. |
-| P-006 | Myneloongyee / MyneloonGyee / Hminelongyi / Hminelongyee / Maing Loongyee / Meenlungghee | Mae Sariang–Me Yuam regional geography | **Strong working identification** | Do not automatically reduce this to “old name of Mae Sariang town.” Upper and Lower Hminelongyi indicate a broader valley, district, or forest geography in at least some sources. |
+| P-006 | Myneloongyee / MyneloonGyee / Hminelongyi / Hminelongyee / Maing Loongyee / Meenlungghee | Mae Sariang / Müang Yuam center and surrounding regional geography | **Strong identification** | Probably refers to the historical Mae Sariang/Müang Yuam center, but later references to Upper and Lower Hminelongyi show that the term could also denote a broader valley, district, or forest geography. Exact scale and usage may vary by source and period. |
 | P-007 | Mae Sariang | Modern Mae Sariang | **Established** | Modern town corresponding broadly to the historical Müang Yuam/Hminelongyee regional node. |
 | P-008 | Dagwin / Daghwin / Dahgwin | Burma-side Salween crossing complex | **Established** | Depending on source can denote settlement, ferry/landing, frontier post, stockade, forest/lease district, or the broader crossing locality. |
 | P-009 | Dahgwin Ziek / Dahgwinziek / Dahgwin-zeik / Daguinseik | Historical forms of the Dagwin crossing name | **Strongly established** | Montgomerie 1862 labels Dahgwin Ziek at the crossing. Hallett identifies Daguinseik as the Salween crossing on the main Pahpoon–Zimmé track. `Zeik/seik` is consistent with landing/port terminology. |
@@ -64,5 +64,5 @@ This register preserves historical spellings, modern identifications, functional
 - Dagwin ≠ Tha Ta Fang.
 - Ta Te ≠ Tha Ta Fang.
 - Momien ≠ Moulmein.
-- Hminelongyee ≠ automatically “old official name of Mae Sariang.”
+- Hminelongyee is probably the historical name for the Mae Sariang/Müang Yuam center or its surrounding regional geography, but its exact historical scale and usage remain unresolved.
 - “Papun pottery” in the *Gazetteer of Upper Burma and the Shan States* refers to pottery produced near Hpapun in the Salween District, not to the separate Papun in Bhamo District and not to Papuan pottery from New Guinea.
