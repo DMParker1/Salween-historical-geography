@@ -3,7 +3,7 @@
 This register preserves historical spellings, modern identifications, functional distinctions, and unresolved place-name problems.
 
 | ID | Historical name(s) | Identification | Status | Notes |
-|---|---|---|---|---|
+|----|---|---|---|---|
 | P-001 | Papun / Pahpoon / Phapun / Hpapun / Pha-pun | Hpapun town, Myanmar | **Established** | Historical headquarters of the Salween District / Salween Hill Tracts on the Yunzalin. Approx. 18°03′N, 97°28′E. |
 | P-002 | Mutraw / Mu Traw | Broader Karen territorial/regional designation surrounding Hpapun | **Strong distinction** | Closely associated with Hpapun but not simply another name for the town. |
 | P-003 | Papun, Bhamo District | Separate northern place | **Rejected conflation** | Must not be confused with P-001. |
@@ -54,6 +54,8 @@ This register preserves historical spellings, modern identifications, functional
 | P-048 | Momien / Momein | Tengyue / Tengchong | **Established** | Not Moulmein. |
 | P-049 | Dali Guo | Dali polity / Du Wenxiu regime in later ancestry traditions | **Contextual** | Relevant to Muslim Yunnanese migration and oral histories. |
 | P-050 | “Lao” in nineteenth-century northern-Siam sources | Usually Lanna / Tai Yuan / Khon Mueang context | **Strong contextual reading** | Do not automatically interpret as modern Lao nationality. |
+| P-051 | Metharut / Metharut chaung | Historical locality and stream near Hpapun | **Attested; modern identification unresolved** | Gazetteer account of Papun pottery identifies Metharut as one of two pottery-producing settlements near Papun and states that the clay was obtained from Metharut chaung, described as close to Papun. Pottery production there was reported to be entirely in the hands of Shans. |
+| P-052 | Naungla | Historical locality near Hpapun | **Attested; modern identification unresolved** | Gazetteer account identifies Naungla, together with Metharut, as a center of pottery production near Papun. Pottery production was reported to be entirely in the hands of Shans. |
 
 ## Standing identification cautions
 
