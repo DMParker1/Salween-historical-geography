@@ -61,29 +61,46 @@ Evidence spans:
 
 # H-C — Hpapun as a network node
 
-**Hypothesis:** Hpapun's historical importance arose primarily from its position within transport and commercial networks rather than from its absolute size.
+**Hypothesis:** Hpapun's historical importance arose primarily from its position within transport, commercial, and social networks rather than from its absolute size.
 
-**Status:** **Strongly supported**
+**Status:** **Strongly supported for the colonial period; precolonial origins unresolved**
 
 Core geography:
 
 **Moulmein ↔ Yunzalin ↔ Hpapun ↔ Dagwin ↔ Lanna/Siam**
 
-Relevant evidence includes:
+By the late nineteenth and early twentieth centuries, Hpapun was clearly more than an administrative outpost. Relevant evidence includes:
 
 - colonial administration
 - Yunzalin river transport
 - Chittagonian merchants and boat operators
+- shops and a mosque serving the Chittagonian community
 - roads and bridle routes
-- the Dagwin crossing
+- the Dagwin crossing and routes toward Lanna/Siam
 - military staging
+- specialized Shan pottery production at nearby Metharut and Naungla
+- production of domestic and ritual pottery for a market extending beyond simple household subsistence
+
+The pottery evidence is especially useful because it documents a specialized craft industry associated with a Shan population in the immediate Hpapun area. Together with evidence for Chittagonian merchants, river transport, administrative functions, and overland routes, it suggests that colonial-period Hpapun supported a socially and economically heterogeneous population connected to wider regional networks.
+
+Two developmental models remain plausible:
+
+1. **Older node, later reinforced:** Hpapun may already have occupied an important position within precolonial trade, transport, settlement, or political networks. Colonial administration, forestry, and commerce then formalized and intensified an existing crossroads.
+
+2. **Colonial-era node formation:** Hpapun may have been a relatively minor settlement before British rule and acquired much of its importance through colonial administration, teak extraction, river transport, road construction, migration, and expanding trade.
+
+The present evidence strongly supports Hpapun's nodal importance during the colonial period but does not yet distinguish securely between these models.
 
 ## Questions
 
 - Did colonial administration create Hpapun's nodal importance or formalize an older one?
-- What settlement or route system preceded the colonial town?
+- Why was Hpapun selected as the headquarters of the Salween District / Salween Hill Tracts?
+- What settlement, market, or route system preceded the colonial town?
+- How early does Hpapun appear in Burmese, Karen, Shan, Siamese, missionary, or other records?
+- Can the Shan pottery communities at Metharut and Naungla be traced earlier than the colonial period?
+- Were Metharut and Naungla older settlements incorporated into a growing Hpapun-centered economy?
+- Where was Papun pottery marketed, and what transport networks carried it?
 - How did Yunzalin navigation connect to the Dagwin overland route?
-
 ---
 
 # H-D — Mae Sariang / Müang Yuam / Hminelongyee as the eastern node
