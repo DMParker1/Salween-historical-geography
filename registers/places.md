@@ -4,9 +4,9 @@ This register preserves historical spellings, modern identifications, functional
 
 | ID  | Historical name(s) | Identification | Status | Notes |
 |----|---|---|---|---|
-| P-001 | Papun / Pahpoon / Phapun / Hpapun / Pha-pun | Hpapun town, Myanmar | **Established** | Historical headquarters of the Salween District / Salween Hill Tracts on the Yunzalin. Approx. 18°03′N, 97°28′E. |
+| P-001 | Papun / Pahpoon / Phapun / Hpapun / Pha-pun | Hpapun town, Myanmar | **Established** | Historical headquarters of the Salween District / Salween Hill Tracts on the Yunzalin. Approx. 18°03′N, 97°28′E. Gazetteer evidence also records a specialized Shan pottery industry in nearby Metharut and Naungla, adding to evidence for Hpapun as a multiethnic administrative, commercial, and craft-production center. |
 | P-002 | Mutraw / Mu Traw | Broader Karen territorial/regional designation surrounding Hpapun | **Strong distinction** | Closely associated with Hpapun but not simply another name for the town. |
-| P-003 | Papun, Bhamo District | Separate northern place | **Rejected conflation** | Must not be confused with P-001. |
+| P-003 | Papun, Bhamo District | Separate northern locality in the Bhamo/Kachin region | **Rejected conflation; modern identification unresolved** | Distinct from P-001 Hpapun in the former Salween District. Attested in the *Gazetteer of Upper Burma and the Shan States*, but no secure modern identification has yet been established. Preserve as a separate unresolved toponym rather than assuming an OCR error or connection with Hpapun. |
 | P-004 | Pahpoh | Probably Hpapun | **Strong identification** | Historical coordinate ~18°07′43″N, 97°24′25″E lies somewhat NW of modern Hpapun. Toponymic evidence is stronger than the historical coordinate. |
 | P-005 | Müang Yuam / Muang Yuam / Muang Yuom | Historical polity/town centered on modern Mae Sariang | **Strong** | Major eastern node in the Papun–Salween–Chiang Mai route system. |
 | P-006 | Myneloongyee / MyneloonGyee / Hminelongyi / Hminelongyee / Maing Loongyee / Meenlungghee | Mae Sariang–Me Yuam regional geography | **Strong working identification** | Do not automatically reduce this to “old name of Mae Sariang town.” Upper and Lower Hminelongyi indicate a broader valley, district, or forest geography in at least some sources. |
@@ -65,3 +65,4 @@ This register preserves historical spellings, modern identifications, functional
 - Ta Te ≠ Tha Ta Fang.
 - Momien ≠ Moulmein.
 - Hminelongyee ≠ automatically “old official name of Mae Sariang.”
+- “Papun pottery” in the *Gazetteer of Upper Burma and the Shan States* refers to pottery produced near Hpapun in the Salween District, not to the separate Papun in Bhamo District and not to Papuan pottery from New Guinea.
