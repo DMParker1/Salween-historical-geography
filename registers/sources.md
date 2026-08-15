@@ -32,7 +32,7 @@ This register records primary, near-primary, and secondary sources used in recon
 | S-024 | Eric B. Hare material | **Source family / lead** | Missionary/frontier source lead. Specific documents and relevant passages remain to identify. | H-A |
 | S-037 | Taw Sein-Ko, *Monograph on the Pottery and Glassware of Burma, 1894–95* | Government monograph, **1895** | Contemporary source reproducing the Salween District pottery report *in extenso*. Identifies Métharut and Naungla as pottery-producing villages near Papun; places Métharut chaung approximately half a mile from Papun and reports the industry there as being in Shan hands. | P-001, P-051–P-052; H-C |
 
-## Modern scholarship and later synthesis
+## Compiled reference works, later synthesis, and modern scholarship
 
 | ID | Source | Type | Relevance / provenance | Related entries |
 |---|---|---|---|---|
