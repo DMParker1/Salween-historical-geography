@@ -1,246 +1,125 @@
-# Active Research Hypotheses
+# Hypothesis Tracker
 
-This register contains only substantive historical propositions that remain analytically useful.
+This register records active historical-geography hypotheses, the evidence currently supporting them, important cautions, and the next questions that could strengthen or weaken them.
 
-Resolved place identifications, rejected conflations, and source-specific factual questions belong in the other registers rather than here.
+## H-A — The Salween functioned as a connective corridor rather than simply a boundary
 
-# H-A — The Salween as a connective corridor
+**Status:** **Strong working hypothesis**
 
-**Hypothesis:** The Salween functioned historically as a connective corridor before becoming a hardened international boundary.
+The Salween and its tributary systems formed part of a wider network linking lower Burma, Hpapun, Karenni, northern Siam/Lanna, and the Shan/Yunnan worlds. Movement was not confined to the river itself. River travel, ferries, footpaths, bridle paths, caravan routes, timber transport, and later military and commercial routes interacted to produce a broader corridor.
 
-**Status:** **Strong overarching hypothesis**
+The historical evidence is especially strong for the Moulmein–Yunzalin–Hpapun–Dagwin–Hminelongyee/Müang Yuam–Chiang Mai axis. Later evidence shows that Salween crossings continued to structure trade, military movement, and local travel even as the river became increasingly formalized as an international boundary.
 
-The river and its tributaries facilitated:
+This does not imply that the corridor was equally important, accessible, or politically open in all periods.
 
-- ferries and crossings
-- trade
-- caravan movement
-- migration
-- forestry
-- administration
-- military movement
-- communication between upland polities and lowland ports
-
-The principal question is increasingly not whether connection existed, but how the organization of movement changed as territorial states hardened the frontier.
-
-## Questions
-
-- How old were individual crossings?
-- Which communities controlled or operated transport?
-- How did river movement interact with overland trails?
-- When did crossing places become formal frontier posts?
-- When did the river become understood primarily as an international boundary?
+**Related entries:** P-001–P-002, P-005–P-016, P-021–P-023, P-033–P-045; R-001–R-009, R-020–R-035; M-001–M-013; S-001–S-004, S-013, S-017–S-019, S-025–S-026, S-032
 
 ---
 
-# H-B — Persistent importance of the Dagwin–Tha Ta Fang crossing
+## H-B — The Dagwin–Tha Ta Fang crossing represents a persistent crossing zone
 
-**Hypothesis:** Dagwin–Tha Ta Fang remained strategically important across very different political periods because of persistent geographical advantages.
+**Status:** **Strong**
 
-**Status:** **Strongly supported synthesis**
+The Dagwin/Tha Ta Fang locality appears repeatedly as a functional crossing zone across very different historical periods.
 
-Evidence spans:
+Montgomerie's 1862 map explicitly marks **Dahgainziek** at the Salween crossing. Later mapping records Dahgwinzeik/Daguinseik, Dagwin Stockade, and the Siamese Stockade. Colonial administrative material identifies Dagwin as one of the principal routes from Papun into Siam and documents a ferry and improved Papun–Dagwin bridle path.
 
-- **1862:** Dahgwin Ziek and crossing on Montgomerie map
-- **1870:** Dahgwinzeik
-- **c.1881:** Dagwin Stockade opposite Siamese Stockade
-- Hallett's Daguinseik on the main Pahpoon–Zimmé track
-- colonial ferry, road, trade, and forestry functions
-- c.1901 Thai station infrastructure
-- WWII defensive and retreat geography
-- later proposed Dagwin Dam
+The same general locality later appears in forestry geography, WWII movement and defensive planning, veteran return accounts, modern bridge proposals, and the proposed Dagwin Dam.
 
-## Questions
+Continuity of the **crossing zone** should not be confused with continuity of a single settlement, building, ferry point, or political installation. Dagwin, the Burma-side stockade, the Siamese Stockade, Tha Ta Fang, the old Thai station, and the proposed dam are related but distinct features.
 
-- Did the crossing remain at exactly the same location?
-- Was the c.1901 Tha Ta Fang station built on or near the earlier Siamese Stockade?
-- How did the functions of the crossing change through time?
-- What physical characteristics made this particular location persist?
+**Related entries:** P-008–P-015, P-030; R-002–R-003, R-012, R-025–R-029, R-035; M-001–M-006, M-010, M-022–M-026; S-001–S-003, S-013–S-016, S-019, S-034–S-036
 
 ---
 
-# H-C — Hpapun as a network node
+## H-C — Hpapun functioned as a regional network node rather than merely an administrative headquarters
 
-**Hypothesis:** Hpapun's historical importance arose primarily from its position within transport, commercial, and social networks rather than from its absolute size.
+**Status:** **Strong for the colonial period; earlier development unresolved**
 
-**Status:** **Strongly supported for the colonial period; precolonial origins unresolved**
+Hpapun occupied an important position between lower Burma, the Yunzalin, the Salween crossings, Karenni, and northern Siam. Colonial sources describe it as an administrative headquarters, caravan terminus, river-transport node, and point from which routes extended toward Dagwin, Bilin, Kyauknyat, and other frontier locations.
 
-Core geography:
+O'Connor's description adds a distinctly multiethnic commercial dimension: Chittagonian shops, a wooden mosque, Muslim river boatmen, and other frontier personnel were present alongside the colonial administration.
 
-**Moulmein ↔ Yunzalin ↔ Hpapun ↔ Dagwin ↔ Lanna/Siam**
+The pottery evidence adds another layer. Metharut and Naungla near Papun were specialized pottery-producing settlements, with production reported as being in Shan hands. This suggests a landscape containing specialized craft production and movement of goods as well as administrative and transport functions.
 
-By the late nineteenth and early twentieth centuries, Hpapun was clearly more than an administrative outpost. Relevant evidence includes:
+What remains unresolved is how far this nodal importance predates formal British administration.
 
-- colonial administration
-- Yunzalin river transport
-- Chittagonian merchants and boat operators
-- shops and a mosque serving the Chittagonian community
-- roads and bridle routes
-- the Dagwin crossing and routes toward Lanna/Siam
-- military staging
-- specialized Shan pottery production at nearby Metharut and Naungla
-- production of domestic and ritual pottery for a market extending beyond simple household subsistence
-
-The pottery evidence is especially useful because it documents a specialized craft industry associated with a Shan population in the immediate Hpapun area. Together with evidence for Chittagonian merchants, river transport, administrative functions, and overland routes, it suggests that colonial-period Hpapun supported a socially and economically heterogeneous population connected to wider regional networks.
-
-Two developmental models remain plausible:
-
-1. **Older node, later reinforced:** Hpapun may already have occupied an important position within precolonial trade, transport, settlement, or political networks. Colonial administration, forestry, and commerce then formalized and intensified an existing crossroads.
-
-2. **Colonial-era node formation:** Hpapun may have been a relatively minor settlement before British rule and acquired much of its importance through colonial administration, teak extraction, river transport, road construction, migration, and expanding trade.
-
-The present evidence strongly supports Hpapun's nodal importance during the colonial period but does not yet distinguish securely between these models.
-
-## Questions
-
-- Did colonial administration create Hpapun's nodal importance or formalize an older one?
-- Why was Hpapun selected as the headquarters of the Salween District / Salween Hill Tracts?
-- What settlement, market, or route system preceded the colonial town?
-- How early does Hpapun appear in Burmese, Karen, Shan, Siamese, missionary, or other records?
-- Can the Shan pottery communities at Metharut and Naungla be traced earlier than the colonial period?
-- Were Metharut and Naungla older settlements incorporated into a growing Hpapun-centered economy?
-- Where was Papun pottery marketed, and what transport networks carried it?
-- How did Yunzalin navigation connect to the Dagwin overland route?
----
-
-# H-D — Mae Sariang / Müang Yuam / Hminelongyee as the eastern node
-
-**Hypothesis:** Mae Sariang/Müang Yuam and the Hminelongyee geography formed the principal Siam-side node connecting the Papun–Dagwin corridor with Chiang Mai/Zimmay.
-
-**Status:** **Strongly supported working hypothesis**
-
-The broad route connection is well supported.
-
-The principal uncertainty concerns what **Hminelongyee** denoted at different dates:
-
-- settlement
-- polity
-- valley
-- administrative geography
-- forest district
-- or different combinations of these
-
-The presence of **Upper and Lower Hminelongyi** strongly cautions against treating it merely as a former town-name for Mae Sariang.
-
-## Questions
-
-- Where was the principal Hminelongyee settlement?
-- How did its extent compare with Müang Yuam?
-- Did British, Burmese, Siamese, and forestry sources use the term differently?
-- How did routes toward Dagwin and Chiang Mai converge within this geography?
+**Related entries:** P-001, P-018–P-022, P-051–P-052; R-001–R-006, R-018; S-004, S-013, S-031, S-037
 
 ---
 
-# H-E — Fluid and overlapping political authority
+## H-D — Mae Sariang / Müang Yuam / Hminelongyee formed the principal eastern node of the corridor
 
-**Hypothesis:** Political authority in the trans-Salween region was historically overlapping, negotiated, and mobile rather than territorially fixed.
+**Status:** **Strong**
 
-**Status:** **Strong interpretive hypothesis**
+Historical route evidence repeatedly places Hminelongyee/Müang Yuam between the Salween crossing and Chiang Mai. The location corresponds strongly with the historical Mae Sariang/Müang Yuam center and its surrounding regional geography.
 
-Relevant evidence includes:
+Hminelongyee probably referred to the Mae Sariang/Müang Yuam center, but references to **Upper and Lower Hminelongyi** indicate that the name could also extend to a wider valley, district, or forest geography. Its scale and usage may therefore have varied by source and period.
 
-- Chiang Mai claims
-- Karenni settlement
-- Sawlapaw's east-bank holdings
-- tributary relations
-- periodic military intervention
-- negotiated agreements
-- Siamese frontier posts
-- forest rights and concessions
-- later British boundary-making
+Macaulay's forestry itinerary and later corporate records further show that the Mae Sariang/Müang Yuam area was embedded in a wider system of forest districts, tributary valleys, and routes extending toward Kun Yuam and Mae Hong Son.
 
-## Central question
-
-How did practical authority, allegiance, settlement, and resource control differ from the sovereign territorial boundaries subsequently claimed by Britain and Siam?
-
-Daniels' concept of **strategic fluidity** provides an especially useful comparative framework.
+**Related entries:** P-005–P-007, P-023–P-024; R-002, R-007, R-009–R-013; M-002–M-004, M-012, M-015, M-021; S-002–S-003, S-005, S-014, S-026, S-032
 
 ---
 
-# H-F — Teak and territorialization
+## H-E — Political authority east of the Salween was overlapping, negotiated, and spatially fluid before boundary settlement
 
-**Hypothesis:** Teak extraction materially contributed to the transformation of a fluid frontier into a more administratively and territorially bounded landscape.
+**Status:** **Strong**
 
-**Status:** **Strong hypothesis**
+Late nineteenth-century evidence from Gantarawadi, the Trans-Salween Karenni tract, the Shan states, Chiang Mai, Siam, and British Burma does not fit neatly into a model of mutually exclusive territorial sovereignty.
 
-A possible sequence is:
+Sawlapaw exercised or claimed authority over territory east of the Salween while Siam also asserted rights in portions of the same region. Local rulers could maintain relationships with more than one larger polity, and practical control could differ from formal claims.
 
-**overlapping frontier authority → commercial forestry → concession geography → administrative jurisdiction → stronger territorial claims**
+The British intervention of 1888–89 and subsequent boundary negotiations increasingly translated this layered political geography into territorial boundary lines.
 
-Evidence includes:
+Teak, security, prestige, relations with Siam, and wider imperial strategic concerns all mattered. Teak was important but should not be treated as the sole explanation for British policy.
 
-- BBTC forest districts
-- Macaulay's itinerary
-- Ney Elias's teak estimates
-- British and Siamese territorial disputes
-- forestry administration
-- transport toward Moulmein
-
-## Questions
-
-- Did commercial concessions follow state control or help create it?
-- Did forest maps effectively become territorial maps?
-- How did forestry change the significance of Dagwin, Hminelongyi, Me Nge, and neighboring districts?
-- How important was teak relative to strategic and diplomatic considerations?
+**Related entries:** P-033–P-040, P-050; R-020–R-024; M-005–M-007, M-015, M-018–M-019; S-006–S-012, S-020–S-021, S-025–S-026
 
 ---
 
-# H-G — Multiple Muslim mobility networks
+## H-F — Teak exploitation helped convert fluid frontier geography into surveyed and administered territory
 
-**Hypothesis:** Muslim settlement along the Salween frontier reflects multiple historical commercial-mobility networks rather than a single migration stream.
+**Status:** **Strong working hypothesis**
 
-**Status:** **Open and promising**
+Commercial forestry required increasingly specific knowledge of forests, streams, transport routes, lease areas, political jurisdiction, and access rights. BBTC and government forestry records therefore provide unusually fine-grained evidence for the territorialization of the Salween frontier.
 
-## South Asian / Chittagonian pathway
+The Me Nge, Dagwin, Thoungyin, Hminelongyi, Me Yuam, and related forest geographies show how commercial resource extraction encouraged landscapes to be classified, bounded, leased, and connected administratively.
 
-Evidence includes:
+In the Trans-Salween dispute, teak increased the material importance of territory whose sovereignty had previously been ambiguous. It should nevertheless be treated as one factor among political, military, diplomatic, and strategic considerations.
 
-- documented Chittagonian community at Hpapun
-- shops
-- mosque
-- river transport
-- connections toward lower Burma and Moulmein
-
-## Yunnanese / Haw pathway
-
-Evidence includes:
-
-- long-distance caravan trade
-- Muslim Yunnanese specialization in commercial transport
-- post-Panthay migration
-- settlement across upland Burma and northern Thailand
-
-For Mae Sam Laep, neither pathway has yet been demonstrated as the dominant historical origin.
-
-## Tests
-
-- family histories
-- mosque records
-- cemeteries
-- surnames
-- languages
-- marriage networks
-- remembered connections to Hpapun, Moulmein, Yunnan, or elsewhere
+**Related entries:** P-014, P-024–P-028, P-033, P-037; R-010–R-013, R-023; M-018–M-021; S-005, S-008–S-010, S-014, S-025
 
 ---
 
-# H-H — Accessibility rather than straight-line geography
+## H-G — Muslim communities along the wider corridor may represent multiple mobility networks rather than one migration stream
 
-**Hypothesis:** Modern movement patterns may preserve older spatial relationships that contemporary national maps obscure.
+**Status:** **Strong as a comparative framework; specific historical connections unresolved**
 
-**Status:** **Exploratory synthesis**
+The project currently contains evidence for at least two distinct Muslim mobility systems.
 
-The relevant historical geography may be one of **accessibility rather than Euclidean distance**.
+One is the South Asian/Chittagonian network documented directly at Hpapun by O'Connor, including merchants, shops, a mosque, and involvement in river transport.
 
-A settlement only a short distance away across mountainous terrain may have been less socially or commercially connected than a much more distant settlement reachable by river or established trail.
+Another is the Muslim Yunnanese/Panthay/Haw network associated with Yunnan, Burma, the Shan world, and northern Thailand.
 
-This may help explain historical relationships among:
+The present Muslim community at Mae Sam Laep could potentially contain histories connected to one or both of these systems, or to other movements entirely. At present there is insufficient evidence to derive Mae Sam Laep's Muslim population directly from either Hpapun's Chittagonians or Yunnanese Haw migration.
 
-- Hpapun
-- Dagwin
-- Tha Ta Fang
-- Mae Sam Laep
-- Mae Sariang
-- other Salween communities
+The useful hypothesis is therefore not a single-origin story but the possibility that the Salween corridor intersected several historically distinct Muslim mobility networks.
 
-Modern movement patterns are useful analogues but should not be treated as proof of direct historical continuity.
+**Related entries:** P-017–P-018, P-020, P-046–P-049; R-014–R-019; M-014; S-004, S-027–S-030
+
+---
+
+## H-H — Historical accessibility is better understood through networks and seasonal movement than through Euclidean distance
+
+**Status:** **Strong analytical hypothesis**
+
+Straight-line distance is a poor guide to historical connectivity in the Salween region. Terrain, river navigability, ferries, seasonal water levels, ridge systems, political checkpoints, road quality, armed control, and available transport technologies could make geographically close places functionally distant and apparently distant places comparatively well connected.
+
+Historical routes, modern field movement, and twentieth-century military reporting all illustrate this problem. A river could function simultaneously as a transport artery and a barrier; a mountain crossing could be viable during one season and effectively closed during another.
+
+Reconstructing accessibility should therefore emphasize routes, travel modes, seasonality, crossing points, and political conditions rather than geometric proximity alone.
+
+Modern routes and field tracks can help interpret the terrain but should not be treated as evidence of historical continuity unless independent historical evidence supports that connection.
+
+**Related entries:** P-001–P-002, P-007–P-016, P-021–P-023, P-041–P-045; R-002, R-029–R-034; M-012–M-013, M-016–M-017; S-017–S-018, S-032
