@@ -122,4 +122,6 @@ Reconstructing accessibility should therefore emphasize routes, travel modes, se
 
 Modern routes and field tracks can help interpret the terrain but should not be treated as evidence of historical continuity unless independent historical evidence supports that connection.
 
+Historical accessibility can also differ radically from modern accessibility. Some routes documented in nineteenth- and early twentieth-century sources would now appear highly improbable because contemporary conflict, international borders, restricted areas, landmines, checkpoints, and altered transport infrastructure have reorganized the regional movement network. Hpapun and other parts of Kayin State provide an especially striking example: places geographically close to Mae Sariang can today be extraordinarily difficult or dangerous to reach, even though historical sources describe regular movement through precisely this trans-Salween geography. Modern intuitions about plausible routes should therefore not be projected backward onto earlier periods.
+
 **Related entries:** P-001–P-002, P-007–P-016, P-021–P-023, P-041–P-045; R-002, R-029–R-034; M-012–M-013, M-016–M-017; S-017–S-018, S-032
