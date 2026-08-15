@@ -1,75 +1,66 @@
-# Source and Provenance Register
+# Source Register
 
-Sources are divided into contemporary/primary material and later scholarship.
+This register records primary, near-primary, and secondary sources used in reconstructing the historical geography of the Salween corridor. It distinguishes direct documentary evidence from later interpretation and from source leads that have not yet been fully examined.
 
-A source's inclusion here does not mean every statement within it is accepted as fact. Source terminology, authorship, transmission, and interpretation should remain explicit.
+## Primary, near-primary, and contemporary sources
 
-# Primary, Near-Primary, and Contemporary Sources
+| ID | Source | Type | Relevance / provenance | Related entries |
+|---|---|---|---|---|
+| S-001 | Coryton, JRGS paper | Published contemporary account, **1875** | Important early evidence for routes, indigenous geographical knowledge, Salween mapping, and connections between Moulmein, the Shan/Karenni regions, Yunnan, and Siam. Associated with the map collection assembled by Coryton from indigenous informants and mapmakers. | P-008–P-009, P-048; R-002, R-014; M-003; H-A, H-B, H-G |
+| S-002 | A. R. Colquhoun, Pahpoon–Zimmay survey / route account | Survey and published contemporary account, c. **1881** | Critical direct evidence for the Pahpoon–Dagwin–Hminelongyee–Zimmay route and the paired Dagwin and Siamese stockades. | P-001, P-005–P-012, P-023; R-002–R-003, R-007; M-004; H-A, H-B, H-D |
+| S-003 | Holt S. Hallett, *A Thousand Miles on an Elephant in the Shan States* | Travel/geographical account, **1890** | Important route synthesis. Identifies Daguinseik as the ford where the main track from Pahpoon to Zimmé crosses the Salween and documents Maingloongyee and wider northern-Siam/Shan geography. | P-001, P-005–P-012, P-022–P-023, P-040; R-002, R-006–R-008; H-A, H-B, H-D |
+| S-004 | V. C. Scott O'Connor, *The Silken East* | Travel/administrative account, early 20th c. | Direct description of Pha-pun/Hpapun, including its administrative role, Chittagonian shops, wooden mosque, river boatmen, and stockaded jail/fort. Important evidence for Hpapun as a multiethnic node. | P-001, P-018–P-022; R-001, R-006, R-018; H-A, H-C, H-G |
+| S-005 | Macaulay letter, 16 January 1902 | Primary correspondence | Forestry itinerary and administrative evidence concerning Hminelongyi, Me Yuam, Kun Yuam, Mae Hong Son, Me Nge, Thoungyin, and related forest geography. | P-006, P-024–P-029; R-010–R-011, R-013; M-021; H-D, H-F |
+| S-006 | H. C. Hill letter, 23 September 1888 | Primary official correspondence | Direct description of Sawlapaw's claimed/effective territory east of the Salween, extending from Muang Hang southward to approximately opposite Dagwin. Important evidence for Trans-Salween Karenni political geography. | P-008, P-033, P-035, P-037, P-039; R-020, R-023–R-024; M-018–M-019; H-E |
+| S-007 | Thirkell White, no. 531, 22 March 1889 | Primary official correspondence | British administrative material concerning Karenni/Siam frontier arrangements following the 1888–89 intervention. | P-033–P-037; R-022–R-024; M-018–M-019; H-E |
+| S-008 | E. B. Gould, 20 January 1889 | Primary official correspondence | Direct British proposal concerning frontier arrangements and the Trans-Salween tract. Must be distinguished from later secondary interpretation of British motives. | P-033, P-035, P-037; R-023–R-024; M-018–M-019; H-E, H-F |
+| S-009 | Ney Elias, 5 February 1890 | Primary official report/correspondence | Contemporary estimates and descriptions relating to Karenni territory and population. Currently accessed partly through Chakandang's reproduction/discussion. | P-033–P-037; R-020–R-024; M-018–M-019; H-E |
+| S-010 | Luang Prachakhadeekitch, R.5 F.M.40/3 | Siamese primary administrative source | Evidence for Siamese claims, frontier administration, and Chiang Mai–Karenni relations. Original document provenance should remain distinct from later discussion by Chakandang. | P-033, P-037; R-024; M-019; H-E, H-F |
+| S-011 | National Library of Thailand compilation of Chiang Mai, Lampang, and Lamphun chronicles | Chronicle compilation, **1957**, preserving earlier material | Relevant to Lanna–Karenni relations and the claimed series of Chiang Mai–Karenni agreements/treaties. Individual underlying texts still need source-level checking. | P-033, P-037; R-024; H-E |
+| S-012 | India Office Records, L/P&S/19/234 | Archival file, **1889** | British political correspondence concerning Karenni/Siam frontier questions and the Trans-Salween dispute. | P-033–P-039; R-020–R-024; M-018–M-019; H-E |
+| S-013 | *Burma Gazetteer: Salween District*, Volume A | District gazetteer / official administrative source | Major source for Salween District geography, trade, roads, ferries, waterways, population, administration, and the Dagwin route. Records the Dagwin route leading east from Papun across the Salween into Siam and its exceptional importance to Siamese trade. | P-001, P-008, P-021–P-022; R-001–R-006; H-A, H-B, H-C |
+| S-014 | Bombay Burmah Trading Corporation history and records, Salween material | Corporate history / archival correspondence | Important for forest leases, Dagwin/Daghwin Forest, Me Nge, Thoungyin, Hminelongyi, Me Yuam, and timber transport. Individual documents should be cited separately where possible. | P-005–P-006, P-014, P-024–P-028; R-010–R-013; M-020–M-021; H-D, H-F |
+| S-015 | Morrison, *Grandfather Longlegs* | Memoir/account, **1947** | WWII evidence for Papun and the Dagwin defensive context. Establishes motor transport reaching Papun, but should not be used to claim motor transport all the way from Papun to Dagwin without further evidence. | P-001, P-008; R-026–R-028; M-024; H-B |
+| S-016 | Japanese-veteran / Tha Ta Fang return accounts | **Source family / lead; incomplete citation** | Accounts of Japanese veterans returning via Mae Sam Laep and travelling upriver toward Tha Ta Fang/Dagwin in search of wartime remains. Useful for WWII memory and route reconstruction, but exact publications/accounts should be individually identified. | P-008, P-012–P-013, P-016; R-025, R-029; M-025; H-B |
+| S-017 | “Borderline Case,” *Far Eastern Economic Review*, 10 May 1984, p. 44 | Contemporary journalism | Important for early-1980s Thailand–Burma border trade and military geography around Ta Te, Sankang, Mae Aw, Nawtaya, and related northern Salween locations. Preserve source terminology as contemporary reportage. | P-041–P-045; R-030–R-032; M-013; H-A, H-H |
+| S-018 | Paisal Sricharatchanya, “This Year's Big Push,” *Far Eastern Economic Review*, p. 45 | Contemporary journalism | Companion reporting on the 1984 military advance involving Pungpahkyem, Ta Te, Sankang, and associated approaches. | P-041–P-045; R-030–R-032; M-013; H-H |
+| S-019 | *The Irrawaddy* article quoting Tipua of Ban Tha Ta Fang | Journalism incorporating local testimony | Tipua describes a proposed bridge from Ban Tha Ta Fang to Dagwin, an old British-built road from Dagwin toward Papun, and the corridor's potential as a short Thailand–central Burma route. Valuable local/oral testimony but weaker than contemporary maps or archival records for colonial-period claims. | P-001, P-008, P-012, P-015; R-002, R-035; M-022, M-026; H-A, H-B |
+| S-020 | Richardson reports/journals | **Source family / lead; incomplete citation** | Potentially important early evidence for travel between Burma, Karenni, and northern Siam and for historical ethnonyms. Specific Richardson documents still need identification and examination. | P-040, P-050; H-D, H-E |
+| S-021 | McLeod, 1836 | Early travel/diplomatic account | Potential early evidence for northern-Siam/Shan/Karenni geography and terminology. Exact relevance to the core Salween corridor should be established source by source. | P-040; H-E |
+| S-022 | Judson journals / missionary records | **Source family / lead** | Possible evidence for early Karen, Salween, and missionary movement. Specific passages relevant to Hpapun/Salween geography remain to identify. | H-A |
+| S-023 | Harold Young material | **Source family / lead** | Missionary/frontier source lead. Specific documents and relevant passages remain to identify. | H-A |
+| S-024 | Eric B. Hare material | **Source family / lead** | Missionary/frontier source lead. Specific documents and relevant passages remain to identify. | H-A |
+| S-037 | Taw Sein-Ko, *Monograph on the Pottery and Glassware of Burma, 1894–95* | Government monograph, **1895** | Contemporary source reproducing the Salween District pottery report *in extenso*. Identifies Métharut and Naungla as pottery-producing villages near Papun; places Métharut chaung approximately half a mile from Papun and reports the industry there as being in Shan hands. | P-001, P-051–P-052; H-C |
 
-| ID | Source | Type | Relevance / provenance |
-|---|---|---|---|
-| S-001 | J. Coryton, “Trade Routes between British Burmah and Western China,” *Journal of the Royal Geographical Society* 45 (1875), p.241ff. | Contemporary geographical report | Uses Dahgwin-zeik; important trade-route evidence. |
-| S-002 | A. R. Colquhoun, Pahpoon–Zimmay route survey materials | Survey/maps | Direct evidence for Hminelongyee, Dagwin Stockade, Siamese Stockade, and the through-route. |
-| S-003 | Holt S. Hallett, *A Thousand Miles on an Elephant in the Shan States* (1890) | Contemporary travel/geographical account | Explicitly describes Daguinseik as the Salween crossing on the main Pahpoon–Zimmé track and mentions the headman of the Siamese frontier post. Closely linked to Colquhoun's survey work. |
-| S-004 | V. C. Scott O'Connor, *The Silken East: A Record of Life and Travel in Burma* | Contemporary travel account | Pha-pun administration, Chittagonian shops, wooden mosque, river boats, stockaded jail/fortress, and frontier social geography. |
-| S-005 | R. H. Macaulay to A. F. Wallace, Chiang Mai, 16 January 1902 | Primary letter | Detailed forestry itinerary; Lower/Upper Hminelongyi, Kun Yuam, Mae Hong Son, etc. |
-| S-006 | H. C. Hill correspondence, 23 September 1888 | Primary official correspondence | Describes Sawlapaw as holding an east-bank strip from Muang Hang south to opposite Dagwin. Hill's claim that this was “without right/title” is colonial interpretation. |
-| S-007 | Thirkell White correspondence no.531, 22 March 1889 | Primary official correspondence | British settlement of the Gantarawadi dispute. Do not attribute Hill's statements to White. |
-| S-008 | E. B. Gould telegram/proposal, 20 January 1889 | Primary official source | British/Siamese territorial proposal. Preserve distinction between Gould's proposal and later historians' interpretations. |
-| S-009 | Ney Elias report, 5 February 1890 | Primary official report | Teak estimates for Me Pa, Me Che, Me Sapaw, Me Saya, and Me Pai. Important for resource incentives in territorial policy. |
-| S-010 | Luang Prachakhadeekitch report, R.5 F.M.40/3 | Thai official source | Priority source concerning Trans-Salween claims/history and reported Chiang Mai–Karenni agreements. Original document needs direct examination. |
-| S-011 | *Chronicles of Chiengmai, Lampang, Lampoon* (National Library Thailand compilation, 1957) | Chronicle compilation preserving older material | Used by Chakandang for Chiang Mai/Karenni historical claims. Original passages and manuscript transmission should be examined. |
-| S-012 | India Office L/P&S/19/234, *Papers Concerning Trans-Salween States* | Archival file | Major primary-source collection for British/Siamese claims east of the Salween. |
-| S-013 | Salween District gazetteer / administrative volume | Colonial administrative source | Papun–Dagwin communications, Salween ferries, trade-registration arrangements, roads, and district geography. Exact bibliographic metadata should be finalized. |
-| S-014 | Bombay Burmah Trading Corporation history/records, “Salween” chapter and appendices | Corporate retrospective containing primary material | Forest districts including Me Yuam, Me Nge, Daghwin, Thoungyin; forest leases and corporate geography. |
-| S-015 | Ian Morrison, *Grandfather Longlegs: The Life and Gallant Death of Major H. P. Seagrim* (1947) | Near-contemporary biography plus documentary appendix | WWII Papun–Dagwin deployment. Distinguish Morrison's narrative from documents reproduced in the appendix. |
-| S-016 | Japanese-veteran / Tha Ta Fang return accounts preserved by specialist WWII source | Veteran recollection / later reproduction | Late-WWII retreat/crossing and later return-search material. Underlying original accounts preferred. |
-| S-017 | “The Borderline Case,” *Far Eastern Economic Review*, 10 May 1984, p.44 | Contemporary journalism | Thai–Burma frontier trade and military geography. |
-| S-018 | Paisal Sricharatchanya, “This Year's Big Push,” *Far Eastern Economic Review*, 10 May 1984, p.45 | Contemporary journalism | Sankang/Ta Te operations. Preserve Cold War/state terminology as source language rather than neutral terminology. |
-| S-019 | *Irrawaddy* article quoting Tipua, deputy village headman of Ban Tha Ta Fang | Contemporary journalism/interview | Planned bridge to Dagwin, old British road to Papun, and claim of short overland connection into Burma. |
-| S-020 | Richardson reports/journals concerning attempts to open Moulmein–Lao/Chiang Mai trade routes | Early colonial / East India Company source lead | Potentially crucial early evidence. Richardson traveled in Maing Loongyee/Red Karen-related route systems. Exact reports remain to recover and inspect. |
-| S-021 | McLeod material, 1836 | Early mission/travel source | Regional political and route geography. Details to integrate as examined. |
-| S-022 | Judson journals / missionary material | Missionary primary/near-primary material | Regional social and geographical evidence. |
-| S-023 | Harold Young material | Missionary/frontier source | Karen/frontier context. |
-| S-024 | Eric B. Hare material | Missionary/frontier source | Karenni/Shan/frontier context. |
+## Modern scholarship and later synthesis
 
-# Modern Scholarship and Secondary Sources
+| ID | Source | Type | Relevance / provenance | Related entries |
+|---|---|---|---|---|
+| S-025 | Chakandang, PhD dissertation | Secondary scholarship, **1987** | Major synthesis of Siam's loss of the Trans-Salween territories and late-19th-century Karenni/Siam/British relations. Particularly useful because it reproduces or cites primary correspondence, but direct primary quotations must remain distinguished from Chakandang's own interpretations. | P-033–P-040; R-020–R-024; M-018–M-019; H-E, H-F |
+| S-026 | Christian Daniels, “Strategic fluidity: expansion by Kengtung (Chiang Tung) into Siam-controlled Lan Na, 1869–1892” | Modern scholarship, **2025/2026** | Useful conceptual and historical treatment of shifting allegiance, overlapping sovereignty, Kengtung–Lanna political relations, and frontier political geography. Contextual rather than direct evidence for the Dagwin corridor. | P-023, P-033, P-037, P-050; R-008–R-009, R-020–R-024; M-015; H-D, H-E |
+| S-027 | David G. Atwill, PhD dissertation | Modern scholarship, **1999** | Major study of the Panthay Rebellion and Muslim Yunnanese networks. Useful for wider Yunnan–Burma trade and migration context, but does not directly establish a Mae Sariang or Mae Sam Laep Muslim migration route. | P-017, P-046, P-048–P-049; R-014–R-017; M-014; H-G |
+| S-028 | Ann Maxwell Hill, *Merchants and Migrants* | Modern scholarship, **1998** | Important study of Yunnanese Chinese/Haw commercial and migration networks in Southeast Asia. Relevant comparative context for Muslim/Yunnanese mobility. | P-017, P-046–P-047; R-015–R-017; H-G |
+| S-029 | Andrew Forbes, works on the Cin-Ho / Haw | **Source family / modern scholarship lead** | Relevant to Yunnanese/Haw communities and caravan mobility in northern Thailand. Specific publications used should eventually receive separate citations. | P-017, P-046–P-047; R-015–R-016; H-G |
+| S-030 | Sladen / Anderson expedition literature | **Source family / historical and later published material** | Relevant to the Bhamo–Momien/Yunnan corridor and wider British exploration/trade-route projects. Individual expedition texts should be separated when directly cited. | P-046, P-048; R-014, R-017; H-G |
+| S-031 | J. George Scott, assisted by J. P. T. Hardiman, *Gazetteer of Upper Burma and the Shan States*, five vols. | Gazetteer / compiled official reference, **1900–1901** | Although compiled from official and contemporary material, retained here with later reference works because its present project use is largely as a compiled gazetteer. Important for place-name disambiguation, population and ethnographic material, and the Papun pottery evidence later compared with Taw Sein-Ko. | P-001, P-003, P-051–P-052; H-C |
+| S-032 | Wilson & Hanks | Modern scholarship, **1985** | Historical/anthropological synthesis with useful frontier mapping, including M. Phapun, Ban Tha Fang, and Müang Yuam. | P-001–P-002, P-005, P-007–P-008, P-012; R-002, R-033; M-012; H-A, H-B, H-D |
+| S-033 | *Silken Threads, Lacquer Thrones* | Modern scholarship | Contextual source on regional culture, trade, political geography, and material networks. Exact claims used in the project should be attached to specific pages before evidentiary weight is increased. | H-A, H-D |
+| S-034 | International Rivers, Salween factsheet | Advocacy/technical summary, **2016** | Useful summary of contemporary Salween hydropower proposals, including the Dagwin/Lower Salween Border Dam context. Not evidence for historical Dagwin geography. | P-015; R-035; M-026; H-B |
+| S-035 | Critical hydropolitics literature on the Salween | **Source family / modern scholarship lead** | Provides political, environmental, and development context for proposed dams and contemporary territorial/development geography. Specific works should be added individually when used. | P-015; R-035; M-026 |
+| S-036 | Specialist WWII source, “Tha Ta Fang: Old Station House” | Specialist secondary/local-history source | Evidence concerning the surviving Thai-side station, reportedly built c.1901 and used by police until 1981, together with its later association with Japanese wartime memory. Should not be used to claim that the building itself was Japanese-built. | P-012–P-013; R-025, R-029; M-023, M-025; H-B |
 
-| ID | Source | Relevance |
-|---|---|---|
-| S-025 | Charan Chakandang, *Siam's Loss of Trans-Salween Territory to Great Britain in 1892* (PhD, Penn State, 1987) | Major synthesis and archival guide. Always distinguish Chakandang's interpretation from the primary sources he quotes. |
-| S-026 | Christian Daniels, “Strategic fluidity: Expansion by Kengtung (Chiang Tung) into Siam-controlled Lan Na, 1869–1892,” *Modern Asian Studies* | Strong conceptual framework for overlapping and shifting authority before hardened territorial borders. |
-| S-027 | David G. Atwill, *Rebellion South of the Clouds* (PhD, 1999) | Muslim Yunnanese/Panthay history, migration, and caravan trade. Does not directly establish Mae Sam Laep origins. |
-| S-028 | Ann Maxwell Hill, *Merchants and Migrants* (1998) | Priority study for Yunnanese trade and migration networks. |
-| S-029 | Andrew D. W. Forbes, works on Cin-Ho / Ho Muslims | Yunnanese Muslim migration and commercial history in northern Thailand. |
-| S-030 | Sladen / Anderson Bhamo–western Yunnan expedition literature | Western Yunnan/Burma caravan routes and trade. |
-| S-031 | J. George Scott, assisted by J. P. Hardiman, *Gazetteer of Upper Burma and the Shan States* (1899–1901) | Colonial administrative compilation from official papers | Major source for administrative, demographic, economic, and geographical evidence. Its Papun pottery section reproduces material from Taw Sein-Ko's 1895 pottery monograph, which in turn presents an earlier Salween District report *in extenso*. Also contains a separate Papun place-name in Bhamo District, which must not be conflated with Hpapun. |
-| S-032 | Wilson & Hanks (1985) | Northern Thai/frontier historical-geographical context. |
-| S-033 | *Silken Threads, Lacquer Thrones* | Lanna/Shan political-cultural context. |
-| S-034 | International Rivers, Salween factsheet (2016) | Dagwin / Lower Salween Border Dam proposal. One proposal version gives 729 MW. |
-| S-035 | Critical hydropolitics literature on Salween dams | Dam development, conflict, territorialization, and river politics. |
-| S-036 | “Tha Ta Fang: Old Station House,” specialist WWII Northern Thailand site | Secondary source for the c.1901 building and veteran narratives. Useful lead; primary corroboration desirable. |
-| S-037 | Taw Sein-Ko, *Monograph on the Pottery and Glassware of Burma, 1894–95* (Rangoon: Government Printing, 1895) | Contemporary government monograph compiling district reports | Direct source for the Papun pottery account later reproduced in the *Gazetteer of Upper Burma and the Shan States*. Taw states that the Salween District report is reproduced *in extenso*. It describes Shan pottery production at Metharut and Naungla near Papun, including clay source, manufacture, products, costs, and illustrations. The original author of the Salween District report is not identified in the monograph and remains to be traced. |
+## Provenance cautions
 
-# Cartographic Sources
-
-The detailed descriptions are maintained in [`maps.md`](maps.md).
-
-Major cartographic sources include:
-
-- Montgomerie, 1862
-- Gibson, 1868
-- Tsaya Pay & Ko Shoay Kho, 1870
-- Colquhoun, c.1881
-- Anglo-Siamese boundary mapping
-- Survey of India wartime mapping
-
-# Source Leads Not Yet Promoted to Evidence
-
-The following should remain research leads until their originals are identified:
-
-- Facebook translation titled approximately “The journey of Mr. Edward from Chiang Mai to Malingkot in 1841”
-- the associated unidentified “Accounts and papers 37,38” reference
-- historical place-name interpretations derived solely from that translated Facebook text
-
-These leads should not be cited as evidence until the underlying source is recovered.
+- A source that reproduces, paraphrases, or cites an earlier document is not equivalent to direct examination of that original document.
+- Where Chakandang reproduces or quotes Hill, Gould, Elias, or other officials, preserve the original author as the immediate evidentiary voice while recording Chakandang as the present access route when appropriate.
+- The H. C. Hill description of Sawlapaw's tract from Muang Hang southward to opposite Dagwin is primary-source evidence, not Chakandang's interpretation.
+- Gould's frontier proposal is Gould's primary-source position, not Chakandang's.
+- Ney Elias's figures and descriptions derive from Elias even when encountered through Chakandang.
+- Claims concerning four Chiang Mai–Karenni treaties currently depend on later discussion unless the underlying Siamese texts have been directly examined.
+- Interpretive phrases such as “probably conquered,” “subterfuge,” or arguments about British teak motives should remain attributed to the scholar making them.
+- O'Connor directly establishes a Chittagonian Muslim community, shops, mosque, and river-transport involvement at Hpapun. This does not by itself establish the historical origins of the Mae Sam Laep Muslim community.
+- Atwill provides strong wider context for Muslim Yunnanese mobility but does not directly establish migration into Mae Sariang or Mae Sam Laep.
+- Morrison establishes motor transport reaching Papun; it does not presently establish a motor road from Papun to Dagwin.
+- The *Far Eastern Economic Review* Ta Te/Sankang geography is distinct from Tha Ta Fang/Dagwin.
+- Tipua's statements in *The Irrawaddy* are valuable local testimony but should not outrank contemporary colonial maps, gazetteers, or archival correspondence when reconstructing nineteenth-century geography.
+- Source-family entries should be replaced or supplemented by individual bibliographic entries as particular documents become evidentially important.
