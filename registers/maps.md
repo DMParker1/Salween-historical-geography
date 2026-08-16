@@ -11,7 +11,7 @@ This register records historical maps, route surveys, operational maps, and proj
 | M-005 | Anglo-Siamese Boundary Commission preliminary map | **1890** | RGS rgs534818 / mr Burma S.2. Important for the transition from fluid frontier geography to formal territorial boundary-making. |
 | M-006 | Skeleton map of China/Siam/Burma boundaries | **1891** | RGS rgs534704 / mr Burma Div.6. |
 | M-007 | India Office Skeleton Map W/LPS/F22, Sheet 2 | late 19th c. | High-priority archival boundary/geography source. |
-| M-008 | *Map of the Birman Empire chiefly from Native Information* | **1824** | RGS rgs534646 / mr Burma G.28. Earlier contextual map; corridor evidence remains to inspect closely. |
+| M-008 | *Map of the Birman Empire chiefly from Native Information* | **1824** | Early contextual map predating the documented Dagwin-crossing sequence. Relevance to the core Salween corridor remains to inspect closely. |
 | M-009 | Chengmai → Mandalay route map | **1923** | RGS rgs542930 / MR THAILAND S.16. |
 | M-010 | Locator map associated with Laura E. Start / *Burmese Textiles* | **1917** | Shows Dagwin Stockade and Siamese Stockade in the later mapping tradition. Exact source context should remain attached when cited. |
 | M-011 | Survey of India one-inch wartime sheets | 1930s–40s | Specific sheets remain to identify. Priority for WWII geography. |
@@ -32,6 +32,8 @@ This register records historical maps, route surveys, operational maps, and proj
 | M-026 | Project layer: proposed Dagwin Dam | project | Represent as a fuzzy development zone rather than an exact historical-site point. |
 
 ## Dagwin crossing cartographic chronology
+
+> **Chronology note:** Briggs's 1858 first-person account of `Dak-won-tsiek` may provide narrative evidence for the broader Dagwin crossing geography four years before Montgomerie's 1862 map, but the identification remains unresolved because Briggs's stated latitude does not comfortably match modern Dagwin. M-001 therefore remains the earliest currently confirmed **cartographic** attestation.
 
 ### 1862 — Montgomerie
 
