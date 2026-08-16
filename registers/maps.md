@@ -30,6 +30,8 @@ This register records historical maps, route surveys, operational maps, and proj
 | M-024 | Project reconstruction: WWII Papun–Dagwin defensive deployment | project | Based primarily on Morrison appendix and related material. Motor transport is documented to Papun; onward movement to Dagwin should not automatically be represented as motorized. |
 | M-025 | Project reconstruction: Japanese retreat Papun–Dagwin–Tha Ta Fang | project | Strong secondary/veteran basis; primary operational corroboration pending. |
 | M-026 | Project layer: proposed Dagwin Dam | project | Represent as a fuzzy development zone rather than an exact historical-site point. |
+| M-027 | *The Central Part of British Burmah with the Shan Provinces of Burmah and Siam, to illustrate the Journals of Capt. W. C. McLeod & Dr Richardson, and of subsequent Explorers* | **1869** | House of Commons map accompanying the McLeod/Richardson papers. Distinguishes routes of Richardson, McLeod, O'Riley, Barker, Watson/Peddie, and later explorers. Shows Zimmé and the wider Hminelongyee/Minglongyee-area route network, but should not be used to infer a direct Hminelongyee–Papun route where one is not shown. |
+
 
 > **Chronology note:** Briggs's 1858 first-person account of `Dak-won-tsiek` may provide narrative evidence for the broader Dagwin crossing geography four years before Montgomerie's 1862 map, but the identification remains unresolved because Briggs's stated latitude does not comfortably match modern Dagwin. M-001 therefore remains the earliest currently confirmed **cartographic** attestation.
 
