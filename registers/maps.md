@@ -18,7 +18,7 @@ This register records historical maps, route surveys, operational maps, and proj
 | M-012 | Wilson & Hanks frontier map | **1985** | Shows M. Phapun, Ban Tha Fang, and Müang Yuam. Useful later regional synthesis. |
 | M-013 | FEER “Borderline Case” schematic | **1984** | Ta Te/Sankang military geography. Schematic rather than precise cartography. |
 | M-014 | Atwill Yunnan trade-route map | **1999** | Contextual map for Muslim Yunnanese trade and mobility networks. Useful for wider regional comparison but not direct evidence for Mae Sariang or Mae Sam Laep. |
-| M-015 | Daniels Kengtung/Lanna political-geography map | **2025/2026** | Contextual representation of Kengtung/Lanna political geography and shifting polity relationships. Figure 1 of Daniels' *Strategic fluidity* article. |
+| M-015 | Daniels Kengtung/Lanna political-geography map | **2025** | Contextual representation of Kengtung/Lanna political geography and shifting polity relationships. Figure 1 of Daniels' *Strategic fluidity* article. |
 | M-016 | METF operational maps/gazetteers | c. **2013–15** | Modern operational geography. |
 | M-017 | User GPS field tracks | **2015** | Modern field-movement layer. |
 | M-018 | Project reconstruction: Sawlapaw east-bank tract | project | Must remain uncertainty-coded. Based on historical descriptions of Sawlapaw's Trans-Salween holdings rather than a surveyed historical boundary. |
