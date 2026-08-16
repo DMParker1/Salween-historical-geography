@@ -5,7 +5,7 @@ This register records historical maps, route surveys, operational maps, and proj
 | ID | Map / cartographic source | Date | Status and significance |
 |---|---|---:|---|
 | M-001 | Montgomerie, *Map of the Eastern Portion of British Burmah and Burmah Proper* | **1862** | **Earliest currently confirmed mapped Dagwin crossing.** Explicit **Dahgainziek** at the Salween crossing, with the route continuing across the river. Also preserves surrounding local geography used in the place-name concordance, including Maybeong Ck, Tseekmeeda, and Khadienglee. Khadienglee appears on or very near the Yunzalin River. |
-| M-002 | Gibson, *Sketch Maps Salween River*, 11 sheets | **1868** | RGS rgs534786 / mr Burma S.34. High priority. One sheet relates the Pak-poon–Zimmay route. Needs detailed comparison with M-001 and M-003. |
+| M-002 | Gibson, *Sketch Maps Salween River*, 11 sheets | **1868** | RGS rgs534786 / mr Burma S.34. High priority. One sheet relates the Pak-poon–Zimmay route. **This RGS series contains multiple distinct maps/tracings with different immediate provenance; the present umbrella entry should eventually be split into separate M-entries for the individual cartographic objects actually used.** |
 | M-003 | Tsaya Pay & Ko Shoay Kho, Moulmein–Zimmay district/route map | **1870** | RGS rgs534702 / mr Burma S.35. Explicit Dahgwinzeik at the Salween. |
 | M-004 | A. R. Colquhoun, Pahpoon–Zimmay route survey | c. **1881** | **Critical map.** Surveyed red route. Explicitly shows Hminelongyee, Dagwin Stockade, Siamese Stockade, and the Salween crossing. |
 | M-005 | Anglo-Siamese Boundary Commission preliminary map | **1890** | RGS rgs534818 / mr Burma S.2. Important for the transition from fluid frontier geography to formal territorial boundary-making. |
