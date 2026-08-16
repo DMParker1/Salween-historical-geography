@@ -28,8 +28,13 @@ The same general locality later appears in forestry geography, WWII movement and
 
 Continuity of the **crossing zone** should not be confused with continuity of a single settlement, building, ferry point, or political installation. Dagwin, the Burma-side stockade, the Siamese Stockade, Tha Ta Fang, the old Thai station, and the proposed dam are related but distinct features.
 
-**Related entries:** P-008–P-015, P-030; R-002–R-003, R-012, R-025–R-029, R-035; M-001–M-006, M-010, M-022–M-026; S-001–S-003, S-013–S-016, S-019, S-034–S-036
+Briggs's 1858 expedition pushes the documented operational importance of the crossing geography earlier than the later stockade sequence. At `Dak-won-tsiek`, a Salween locality whose identification with later Dagwin/Daguinseik is strongly suggested but not yet proven, Briggs established a camp controlling both land and water routes. He and Siamese officials arranged guards on the Siamese bank, while Briggs left 50 men with canoes to patrol the river. This should be treated as an **operational precursor**, not as evidence that the later permanent Dagwin and Siamese stockades already existed.
 
+The chronology is therefore provisionally:
+
+**1858 operational guard/patrol arrangements at Dak-won-tsiek → 1872 proposal for corresponding frontier posts → 1873 stockade language → 1874 treaty guard-station provisions → c.1881 mapped Dagwin and Siamese Stockades.**
+
+**Related entries:** P-008–P-015, P-030, P-053–P-054; R-002–R-003, R-012, R-025–R-029, R-035–R-037; M-001–M-006, M-010, M-022–M-026; S-001–S-003, S-013–S-016, S-019, S-034–S-036, S-038
 ---
 
 ## H-C — Hpapun functioned as a regional network node rather than merely an administrative headquarters
@@ -57,6 +62,8 @@ Historical route evidence repeatedly places Hminelongyee/Müang Yuam between the
 Hminelongyee probably referred to the Mae Sariang/Müang Yuam center, but references to **Upper and Lower Hminelongyi** indicate that the name could also extend to a wider valley, district, or forest geography. Its scale and usage may therefore have varied by source and period.
 
 Macaulay's forestry itinerary and later corporate records further show that the Mae Sariang/Müang Yuam area was embedded in a wider system of forest districts, tributary valleys, and routes extending toward Kun Yuam and Mae Hong Son.
+
+Briggs's 1858 account substantially strengthens this identification. Hmine-loongyee appears not merely as a name on a later route map but as a major fortified Siamese frontier node reached directly from the Salween. Briggs describes an extensive stockade with wooden towers on an open plain, surrounded by distant mountains and watered by a substantial clear stream in teak country. The geographical description, route relationship to Zimmay, and later Hminelongyee/Müang Yuam evidence together make the Mae Sariang/Müang Yuam identification considerably stronger, while still leaving the historical spatial extent of the name unresolved.
 
 **Related entries:** P-005–P-007, P-023–P-024; R-002, R-007, R-009–R-013; M-002–M-004, M-012, M-015, M-021; S-002–S-003, S-005, S-014, S-026, S-032
 
@@ -87,6 +94,8 @@ Commercial forestry required increasingly specific knowledge of forests, streams
 The Me Nge, Dagwin, Thoungyin, Hminelongyi, Me Yuam, and related forest geographies show how commercial resource extraction encouraged landscapes to be classified, bounded, leased, and connected administratively.
 
 In the Trans-Salween dispute, teak increased the material importance of territory whose sovereignty had previously been ambiguous. It should nevertheless be treated as one factor among political, military, diplomatic, and strategic considerations.
+
+Briggs shows that this timber system was already operating at large scale by the mid-1850s. For 1856–57 he describes more than 80,000 teak logs/pieces descending through the Salween, Thoungyeen, and Attaran systems, much of the best timber originating in forests beyond British territory. His description of timber moving from forest tributaries into the major rivers, through a cable-catching station at Kyodan, into rafts, past the Kado revenue station, and onward to Moulmein provides unusually concrete evidence for the material infrastructure of this trans-frontier timber network.
 
 **Related entries:** P-014, P-024–P-028, P-033, P-037; R-010–R-013, R-023; M-018–M-021; S-005, S-008–S-010, S-014, S-025
 
@@ -123,5 +132,9 @@ Reconstructing accessibility should therefore emphasize routes, travel modes, se
 Modern routes and field tracks can help interpret the terrain but should not be treated as evidence of historical continuity unless independent historical evidence supports that connection.
 
 Historical accessibility can also differ radically from modern accessibility. Some routes documented in nineteenth- and early twentieth-century sources would now appear highly improbable because contemporary conflict, international borders, restricted areas, landmines, checkpoints, and altered transport infrastructure have reorganized the regional movement network. Hpapun and other parts of Kayin State provide an especially striking example: places geographically close to Mae Sariang can today be extraordinarily difficult or dangerous to reach, even though historical sources describe regular movement through precisely this trans-Salween geography. Modern intuitions about plausible routes should therefore not be projected backward onto earlier periods.
+
+Briggs provides an unusually clear example of historically contingent accessibility. In 1858, when rafts were no longer practicable farther up the Yoongzalen and it was doubtful whether loaded canoes could continue, Siamese chiefs from Zimmay proposed an alternative overland route through Hmine-loongyee and Poong-met-seh. Briggs accepted it, crossed the Salween with roughly 350 men, and travelled through high hills, dense forest, stream beds, and deer paths. Elsewhere in the same expedition he divided his force between an overland route through Siamese territory and a water route using ten small canoes and eight bamboo rafts. The practical network therefore changed with river conditions, terrain, available transport, political alliances, guides, security, and season.
+
+This is especially important because the historical network can look counterintuitive from a modern perspective. Routes joining Mae Sariang/Hmine-loongyee, the Salween, and the Yoonzaleen/Hpapun geography that were practical or strategically meaningful in the nineteenth century can now be extraordinarily difficult or dangerous. Modern ideas about plausible movement should therefore not be projected backward.
 
 **Related entries:** P-001–P-002, P-007–P-016, P-021–P-023, P-041–P-045; R-002, R-029–R-034; M-012–M-013, M-016–M-017; S-017–S-018, S-032
