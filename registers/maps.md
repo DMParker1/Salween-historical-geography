@@ -4,7 +4,6 @@ This register records historical maps, route surveys, operational maps, and proj
 
 | ID | Map / cartographic source | Date | Status and significance |
 |---|---|---:|---|
-
 | M-001 | Montgomerie, *Map of the Eastern Portion of British Burmah and Burmah Proper* | **1862** | **Earliest currently confirmed mapped Dagwin crossing.** Explicit **Dahgainziek** at the Salween crossing, with the route continuing across the river. Also explicitly shows **Myneloongyee**, providing early cartographic evidence for the Hminelongyee/Müang Yuam valley geography later associated with Mae Sariang. **Montgomerie identifies the map as a compilation from multiple earlier maps and route sketches**, including Richardson's Ava–Zimmé route via Myneloongyee, Macleod's Maulmain–Zimmé route, Brandis's teak-forest routes, Berdmore and Watson's routes through the Younzaleen and Beling valleys, Barker's Thoungyeen route sketches, Burn/Warrick material on the Karennee States, Mailing's Maulmain–Myneloongyee–Zimmé route, and Landers's Maulmain–Zimmé route. Also preserves surrounding local geography including Maybeong Ck, Tseekmeeda, and Khadienglee. |
 
 | M-002 | Gibson, *Sketch Maps Salween River*, 11 sheets | **1868** | RGS rgs534786 / mr Burma S.34. High priority. One sheet relates the Pak-poon–Zimmay route. **This RGS series contains multiple distinct maps/tracings with different immediate provenance; the present umbrella entry should eventually be split into separate M-entries for the individual cartographic objects actually used.** |
