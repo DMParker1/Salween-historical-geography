@@ -49,6 +49,8 @@ The pottery evidence adds another layer. Metharut and Naungla near Papun were sp
 
 What remains unresolved is how far this nodal importance predates formal British administration.
 
+The 1864 Karennee Mission material strengthens the interpretation of Papoon as an administrative and logistical node before the better-known late-19th-century route evidence. Papoon served as the headquarters of the Yoonzaleen subdivision, and expeditionary transport animals were being supplied from there into the frontier.
+
 **Related entries:** P-001, P-018–P-022, P-051–P-052; R-001–R-006, R-018; S-004, S-013, S-031, S-037
 
 ---
